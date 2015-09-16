@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經
+#+DATE: 2015-08-30 20:28:53.675403
+#+PROPERTY: JUAN 0
